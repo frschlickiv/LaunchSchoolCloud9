@@ -1,0 +1,15 @@
+
+{
+  "en": {  
+    "welcome": "Welcome to Calculator!",
+    "validName": "Make sure to enter a valid name.",
+    "1234": "Must choose 1, 2, 3, or 4",
+    "operatorQuestion": "Please enter an operator.\n1) Add 2) Subtract 3) Multiply 4) Divide\n"
+  },
+  "es": {
+    "welcome": "Bienvenido a la calculadora!",
+    "validName": "Asegúrese de entrar un nombre válido.",
+    "1234": "Debe elegir 1, 2, 3 o 4",
+    "operatorQuestion": "Ingrese un operador.\n1) Sumar 2) Restar 3) Multiplicar 4) Dividir\n"
+  }
+}

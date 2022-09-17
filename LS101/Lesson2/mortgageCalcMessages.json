@@ -1,0 +1,7 @@
+ {
+    "welcome": "Welcome to the Mortgage Calculator!",
+    "Q_loanAmount": "Please enter your loan amount.\n",
+    "Q_APY": "Please enter your yearly interest\n",
+    "Q_duration": "Please enter your loan duration in months.\n",
+    "invalidNum": "Please enter a positive valid number.\n"
+}
